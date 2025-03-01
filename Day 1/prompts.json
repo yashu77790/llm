@@ -1,0 +1,249 @@
+{
+    "prompts": [
+        {
+            "id": 1,
+            "text": "What is the capital of France?",
+            "category": "factual"
+        },
+        {
+            "id": 2,
+            "text": "Explain quantum mechanics in simple terms.",
+            "category": "explanation"
+        },
+        {
+            "id": 3,
+            "text": "Who wrote 'Pride and Prejudice'?",
+            "category": "factual"
+        },
+        {
+            "id": 4,
+            "text": "What are the three laws of motion?",
+            "category": "science"
+        },
+        {
+            "id": 5,
+            "text": "Summarize the plot of 'Hamlet'.",
+            "category": "literature"
+        },
+        {
+            "id": 6,
+            "text": "How does photosynthesis work?",
+            "category": "science"
+        },
+        {
+            "id": 7,
+            "text": "Describe the process of making chocolate.",
+            "category": "process"
+        },
+        {
+            "id": 8,
+            "text": "What are the causes of World War I?",
+            "category": "history"
+        },
+        {
+            "id": 9,
+            "text": "Define the term 'machine learning'.",
+            "category": "technology"
+        },
+        {
+            "id": 10,
+            "text": "What is the Pythagorean theorem?",
+            "category": "math"
+        },
+        {
+            "id": 11,
+            "text": "Explain how a blockchain works.",
+            "category": "technology"
+        },
+        {
+            "id": 12,
+            "text": "Who discovered penicillin?",
+            "category": "history"
+        },
+        {
+            "id": 13,
+            "text": "List three programming languages and their uses.",
+            "category": "technology"
+        },
+        {
+            "id": 14,
+            "text": "What are black holes and how are they formed?",
+            "category": "science"
+        },
+        {
+            "id": 15,
+            "text": "Explain the significance of the Renaissance period.",
+            "category": "history"
+        },
+        {
+            "id": 16,
+            "text": "How does an internal combustion engine work?",
+            "category": "engineering"
+        },
+        {
+            "id": 17,
+            "text": "What are the key principles of democracy?",
+            "category": "politics"
+        },
+        {
+            "id": 18,
+            "text": "Describe the process of cellular respiration.",
+            "category": "biology"
+        },
+        {
+            "id": 19,
+            "text": "What is the difference between mitosis and meiosis?",
+            "category": "biology"
+        },
+        {
+            "id": 20,
+            "text": "How does an electric car battery function?",
+            "category": "engineering"
+        },
+        {
+            "id": 21,
+            "text": "What are the main economic principles of capitalism?",
+            "category": "economics"
+        },
+        {
+            "id": 22,
+            "text": "Define the term 'artificial intelligence'.",
+            "category": "technology"
+        },
+        {
+            "id": 23,
+            "text": "Explain the importance of biodiversity.",
+            "category": "environment"
+        },
+        {
+            "id": 24,
+            "text": "What are the primary colors and how do they mix?",
+            "category": "art"
+        },
+        {
+            "id": 25,
+            "text": "Describe the life cycle of a butterfly.",
+            "category": "biology"
+        },
+        {
+            "id": 26,
+            "text": "Translate 'Hello, how are you?' into Spanish.",
+            "category": "language"
+        },
+        {
+            "id": 27,
+            "text": "What is the boiling point of water at sea level?",
+            "category": "science"
+        },
+        {
+            "id": 28,
+            "text": "Who was the first person to walk on the moon?",
+            "category": "history"
+        },
+        {
+            "id": 29,
+            "text": "Define Newton's second law of motion.",
+            "category": "science"
+        },
+        {
+            "id": 30,
+            "text": "What are the basic building blocks of matter?",
+            "category": "chemistry"
+        },
+        {
+            "id": 31,
+            "text": "Explain the Big Bang Theory.",
+            "category": "cosmology"
+        },
+        {
+            "id": 32,
+            "text": "What is the role of the mitochondria in a cell?",
+            "category": "biology"
+        },
+        {
+            "id": 33,
+            "text": "How do antibiotics work to kill bacteria?",
+            "category": "medicine"
+        },
+        {
+            "id": 34,
+            "text": "List three renewable energy sources.",
+            "category": "environment"
+        },
+        {
+            "id": 35,
+            "text": "What are the fundamental rights in the US Constitution?",
+            "category": "law"
+        },
+        {
+            "id": 36,
+            "text": "Explain the concept of supply and demand.",
+            "category": "economics"
+        },
+        {
+            "id": 37,
+            "text": "What is the greenhouse effect and why is it important?",
+            "category": "environment"
+        },
+        {
+            "id": 38,
+            "text": "Describe the significance of the Treaty of Versailles.",
+            "category": "history"
+        },
+        {
+            "id": 39,
+            "text": "What is the function of the heart in the circulatory system?",
+            "category": "biology"
+        },
+        {
+            "id": 40,
+            "text": "Explain how vaccines work to prevent diseases.",
+            "category": "medicine"
+        },
+        {
+            "id": 41,
+            "text": "How do computers process information?",
+            "category": "technology"
+        },
+        {
+            "id": 42,
+            "text": "What are the main functions of the nervous system?",
+            "category": "biology"
+        },
+        {
+            "id": 43,
+            "text": "Who proposed the theory of relativity?",
+            "category": "science"
+        },
+        {
+            "id": 44,
+            "text": "Define the concept of cultural diffusion.",
+            "category": "sociology"
+        },
+        {
+            "id": 45,
+            "text": "What are the ethical concerns of AI development?",
+            "category": "ethics"
+        },
+        {
+            "id": 46,
+            "text": "Describe the structure of DNA.",
+            "category": "biology"
+        },
+        {
+            "id": 47,
+            "text": "How does photosynthesis contribute to the oxygen cycle?",
+            "category": "science"
+        },
+        {
+            "id": 48,
+            "text": "What is the importance of the Magna Carta?",
+            "category": "history"
+        },
+        {
+            "id": 49,
+            "text": "Explain the principles of quantum computing.",
+            "category": "technology"
+        }
+    ]
+}

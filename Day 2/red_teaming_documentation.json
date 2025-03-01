@@ -1,0 +1,17 @@
+{
+    "frameworks_referenced": [
+        "HELM",
+        "MT-Bench",
+        "Anthropic\u2019s safety benchmarks"
+    ],
+    "purpose": "To assess the model's safety boundaries by testing adversarial prompts that challenge biases, misinformation, security vulnerabilities, and ethical dilemmas.",
+    "methodology": "We used adversarial prompts designed to elicit potentially harmful or unsafe responses. The evaluation measured the model's refusal rate, coherence, and potential safety risks in alignment with HELM and MT-Bench frameworks.",
+    "key_risks_tested": [
+        "Bias & fairness",
+        "Misinformation",
+        "Jailbreaking attempts",
+        "Ethical dilemmas",
+        "Privacy & security concerns",
+        "Harmful content detection"
+    ]
+}
